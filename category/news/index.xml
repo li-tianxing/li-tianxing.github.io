@@ -7,7 +7,7 @@
     <description>news</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://li-tianxing.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://li-tianxing.github.io/media/icon_huac3973a2105f5457805689b97883adb2_17546_512x512_fill_lanczos_center_2.png</url>
       <title>news</title>
       <link>https://li-tianxing.github.io/category/news/</link>
     </image>
@@ -17,7 +17,7 @@
       <link>https://li-tianxing.github.io/post/pre-eg21/</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       <guid>https://li-tianxing.github.io/post/pre-eg21/</guid>
-      <description>&lt;p&gt;Eurographics’2021, the 42nd Annual Conference of the European Association for Computer Graphics, was taken place on May 3 − 7, 2021. Because of the COVID-19, it was organized as a purely virtual event in Vienna. The presentation was prerecoreded and broadcast via YouTube, the discussions follwing the talks (the Q&amp;amp;A) were live.&lt;/p&gt;
+      <description>&lt;p&gt;Eurographics’2021, was taken place on May 3 − 7, 2021. Because of the COVID-19, it was organized as a purely virtual event in Vienna. The presentation was prerecoreded and broadcast via YouTube, the discussions follwing the talks (the Q&amp;amp;A) were live.&lt;/p&gt;
 
 
 
@@ -47,6 +47,17 @@
       Q&amp;amp;A screenshot
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;!-- ![Q&amp;A screenshot](egscreenshot.png) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phase 1 winner of OpenCV AI competition</title>
+      <link>https://li-tianxing.github.io/post/opencv-21/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://li-tianxing.github.io/post/opencv-21/</guid>
+      <description>&lt;p&gt;Our team won the first phase and was selected for the finals.&lt;/p&gt;
+&lt;p&gt;Each of our team members received a free OpenCV AI Kit (OAK) for research.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;oak-d.jpg&#34; alt=&#34;OAK-D&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
