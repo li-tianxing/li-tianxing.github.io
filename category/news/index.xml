@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>news | Tianxing LI</title><link>https://li-tianxing.github.io/category/news/</link><atom:link href="https://li-tianxing.github.io/category/news/index.xml" rel="self" type="application/rss+xml"/><description>news</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate><image><url>https://li-tianxing.github.io/media/icon_huac3973a2105f5457805689b97883adb2_17546_512x512_fill_lanczos_center_3.png</url><title>news</title><link>https://li-tianxing.github.io/category/news/</link></image><item><title>Presented at Eurographics 2021.</title><link>https://li-tianxing.github.io/post/pre-eg21/</link><pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate><guid>https://li-tianxing.github.io/post/pre-eg21/</guid><description>&lt;p>Eurographics’2021, was taken place on May 3 − 7, 2021. Because of the COVID-19, it was organized as a purely virtual event in Vienna. The presentation was prerecoreded and broadcast via YouTube, the discussions follwing the talks (the Q&amp;amp;A) were live.&lt;/p>
+&lt;figure id="figure-i3d_conf">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >
+&lt;img alt="Q&amp;amp;A screenshot" srcset="
+/post/pre-eg21/egscreenshot_hue139532ac6bc8de5e79a89e8117719b5_919707_d36227016c8c61a6829ba89832bbd638.png 400w,
+/post/pre-eg21/egscreenshot_hue139532ac6bc8de5e79a89e8117719b5_919707_f5b056adbdb97da85c4d1149cb058b19.png 760w,
+/post/pre-eg21/egscreenshot_hue139532ac6bc8de5e79a89e8117719b5_919707_1200x1200_fit_lanczos_3.png 1200w"
+src="https://li-tianxing.github.io/post/pre-eg21/egscreenshot_hue139532ac6bc8de5e79a89e8117719b5_919707_d36227016c8c61a6829ba89832bbd638.png"
+width="760"
+height="458"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Q&amp;amp;A screenshot
+&lt;/figcaption>&lt;/figure>
+&lt;!-- ![Q&amp;A screenshot](egscreenshot.png) --></description></item><item><title>Phase 1 winner of OpenCV AI competition</title><link>https://li-tianxing.github.io/post/opencv-21/</link><pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate><guid>https://li-tianxing.github.io/post/opencv-21/</guid><description>&lt;p>Our team won the first phase and was selected for the finals.&lt;/p>
+&lt;p>Each of our team members received a free OpenCV AI Kit (OAK) for research.&lt;/p>
+&lt;p>&lt;img src="oak-d.jpg" alt="OAK-D">&lt;/p></description></item><item><title>Invited talks at Huawei Japan Research Center.</title><link>https://li-tianxing.github.io/post/invited-huawei20/</link><pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate><guid>https://li-tianxing.github.io/post/invited-huawei20/</guid><description>&lt;p>&lt;img src="huawei-post.jpg" alt="Huawei-poster">&lt;/p>
+&lt;!-- &lt;img src="huawei-post.jpg" width="800" /> --></description></item><item><title>Presented at I3D 2020.</title><link>https://li-tianxing.github.io/post/pre-i3d20/</link><pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate><guid>https://li-tianxing.github.io/post/pre-i3d20/</guid><description>&lt;p>I3D 2020 was a virtual conference, held the week of September 14-18. The paper presentation was prerecorded and streamed at the I3D YouTube channel.&lt;/p>
+&lt;!-- &lt;img src="https://graphics.c.u-tokyo.ac.jp/hp/wp-content/uploads/i3dpresentation-1024x633.png" width="800" /> -->
+&lt;figure id="figure-i3d_conf">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://graphics.c.u-tokyo.ac.jp/hp/wp-content/uploads/i3dpresentation-1024x633.png" alt="" loading="lazy" data-zoomable width="800" />&lt;/div>
+&lt;/div>&lt;/figure></description></item></channel></rss>
