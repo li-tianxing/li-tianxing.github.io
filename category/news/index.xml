@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news | Tianxing LI</title>
+    <link>https://li-tianxing.github.io/category/news/</link>
+      <atom:link href="https://li-tianxing.github.io/category/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>news</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://li-tianxing.github.io/media/icon_huac3973a2105f5457805689b97883adb2_17546_512x512_fill_lanczos_center_3.png</url>
+      <title>news</title>
+      <link>https://li-tianxing.github.io/category/news/</link>
+    </image>
+    
+    <item>
+      <title>Presented at Eurographics 2021.</title>
+      <link>https://li-tianxing.github.io/post/pre-eg21/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://li-tianxing.github.io/post/pre-eg21/</guid>
+      <description>&lt;p&gt;Eurographics’2021, was taken place on May 3 − 7, 2021. Because of the COVID-19, it was organized as a purely virtual event in Vienna. The presentation was prerecoreded and broadcast via YouTube, the discussions follwing the talks (the Q&amp;amp;A) were live.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-i3d_conf&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Q&amp;amp;A screenshot&#34; srcset=&#34;
+               /post/pre-eg21/egscreenshot_hue139532ac6bc8de5e79a89e8117719b5_919707_d36227016c8c61a6829ba89832bbd638.png 400w,
+               /post/pre-eg21/egscreenshot_hue139532ac6bc8de5e79a89e8117719b5_919707_f5b056adbdb97da85c4d1149cb058b19.png 760w,
+               /post/pre-eg21/egscreenshot_hue139532ac6bc8de5e79a89e8117719b5_919707_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://li-tianxing.github.io/post/pre-eg21/egscreenshot_hue139532ac6bc8de5e79a89e8117719b5_919707_d36227016c8c61a6829ba89832bbd638.png&#34;
+               width=&#34;760&#34;
+               height=&#34;458&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Q&amp;amp;A screenshot
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- ![Q&amp;A screenshot](egscreenshot.png) --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phase 1 winner of OpenCV AI competition</title>
+      <link>https://li-tianxing.github.io/post/opencv-21/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://li-tianxing.github.io/post/opencv-21/</guid>
+      <description>&lt;p&gt;Our team won the first phase and was selected for the finals.&lt;/p&gt;
+&lt;p&gt;Each of our team members received a free OpenCV AI Kit (OAK) for research.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;oak-d.jpg&#34; alt=&#34;OAK-D&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited talks at Huawei Japan Research Center.</title>
+      <link>https://li-tianxing.github.io/post/invited-huawei20/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://li-tianxing.github.io/post/invited-huawei20/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;huawei-post.jpg&#34; alt=&#34;Huawei-poster&#34;&gt;&lt;/p&gt;
+&lt;!-- &lt;img src=&#34;huawei-post.jpg&#34; width=&#34;800&#34; /&gt; --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presented at I3D 2020.</title>
+      <link>https://li-tianxing.github.io/post/pre-i3d20/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://li-tianxing.github.io/post/pre-i3d20/</guid>
+      <description>&lt;p&gt;I3D 2020 was a virtual conference, held the week of September 14-18. The paper presentation was prerecorded and streamed at the I3D YouTube channel.&lt;/p&gt;
+&lt;!-- &lt;img src=&#34;https://graphics.c.u-tokyo.ac.jp/hp/wp-content/uploads/i3dpresentation-1024x633.png&#34; width=&#34;800&#34; /&gt; --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-i3d_conf&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://graphics.c.u-tokyo.ac.jp/hp/wp-content/uploads/i3dpresentation-1024x633.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;800&#34; /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
