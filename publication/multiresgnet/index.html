@@ -11,6 +11,7 @@
   
 
   
+    <meta name="google-site-verification" content="G-PX37CBWGNY" />
 
   
   
@@ -23,14 +24,14 @@
   
   
 
-  <meta name="author" content="Tianxing LI" />
+  <meta name="author" content="Tianxing Li" />
 
   
   
   
     
   
-  <meta name="description" content="A graph-learning-based deformation method" />
+  <meta name="description" content="character deformation" />
 
   
   <link rel="alternate" hreflang="en-us" href="https://li-tianxing.github.io/publication/multiresgnet/" />
@@ -245,13 +246,60 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.e7623dd8551519061cb997839c90f845.css" />
+  <link rel="stylesheet" href="/css/wowchemy.2ee374d4cf5562c045dfeda3907f775c.css" />
 
   
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PX37CBWGNY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-PX37CBWGNY', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','G-PX37CBWGNY');
+</script>
+
 
   
 
@@ -270,8 +318,8 @@
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_huac3973a2105f5457805689b97883adb2_17546_32x32_fill_lanczos_center_2.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huac3973a2105f5457805689b97883adb2_17546_180x180_fill_lanczos_center_2.png" />
+  <link rel="icon" type="image/png" href="/media/icon_huac3973a2105f5457805689b97883adb2_17546_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_huac3973a2105f5457805689b97883adb2_17546_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="https://li-tianxing.github.io/publication/multiresgnet/" />
 
@@ -291,7 +339,7 @@
   <meta property="og:site_name" content="Tianxing LI" />
   <meta property="og:url" content="https://li-tianxing.github.io/publication/multiresgnet/" />
   <meta property="og:title" content="MultiResGNet: Approximating nonlinear deformation via multi-resolution graphs | Tianxing LI" />
-  <meta property="og:description" content="A graph-learning-based deformation method" /><meta property="og:image" content="https://li-tianxing.github.io/publication/multiresgnet/featured.png" />
+  <meta property="og:description" content="character deformation" /><meta property="og:image" content="https://li-tianxing.github.io/publication/multiresgnet/featured.png" />
     <meta property="twitter:image" content="https://li-tianxing.github.io/publication/multiresgnet/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -335,7 +383,7 @@
   
   "author": {
     "@type": "Person",
-    "name": "Tianxing LI"
+    "name": "Tianxing Li"
   },
   
   "publisher": {
@@ -343,10 +391,10 @@
     "name": "Tianxing LI",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://li-tianxing.github.io/media/icon_huac3973a2105f5457805689b97883adb2_17546_192x192_fill_lanczos_center_2.png"
+      "url": "https://li-tianxing.github.io/media/icon_huac3973a2105f5457805689b97883adb2_17546_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "A graph-learning-based deformation method"
+  "description": "character deformation"
 }
 </script>
 
@@ -376,7 +424,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.226a9011996d125bf3fe4a5f22353a49.js"></script>
+  <script src="/js/wowchemy-init.min.af22a52d9e52f6033270a248a3e651f7.js"></script>
 
   
 
@@ -532,7 +580,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Reseach</span></a>
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -569,7 +617,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+          <a class="nav-link " href="/#featured"><span>Reseach</span></a>
         </li>
 
         
@@ -716,8 +764,8 @@
     
 
   <span >
-      Tianxing LI</span>, <span >
-      Rui Shi</span>, <span >
+      Tianxing Li</span>, <span >
+      rui-shi</span>, <span >
       Takashi Kanai</span>
   </div>
   
@@ -802,7 +850,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 138px;">
   <div style="position: relative">
-    <img src="/publication/multiresgnet/featured_hue663a3a28e50765e63b47b4129dfff04_1359581_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/publication/multiresgnet/featured_hue663a3a28e50765e63b47b4129dfff04_1359581_720x0_resize_lanczos_3.png" alt="" class="featured-image">
     <span class="article-header-caption">TeaserFig</span>
   </div>
 </div>
@@ -865,84 +913,6 @@
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://twitter.com/intent/tweet?url=https://li-tianxing.github.io/publication/multiresgnet/&amp;text=MultiResGNet:%20Approximating%20nonlinear%20deformation%20via%20multi-resolution%20graphs" target="_blank" rel="noopener" class="share-btn-twitter">
-          <i class="fab fa-twitter"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://li-tianxing.github.io/publication/multiresgnet/&amp;t=MultiResGNet:%20Approximating%20nonlinear%20deformation%20via%20multi-resolution%20graphs" target="_blank" rel="noopener" class="share-btn-facebook">
-          <i class="fab fa-facebook"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="mailto:?subject=MultiResGNet:%20Approximating%20nonlinear%20deformation%20via%20multi-resolution%20graphs&amp;body=https://li-tianxing.github.io/publication/multiresgnet/" target="_blank" rel="noopener" class="share-btn-email">
-          <i class="fas fa-envelope"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://li-tianxing.github.io/publication/multiresgnet/&amp;title=MultiResGNet:%20Approximating%20nonlinear%20deformation%20via%20multi-resolution%20graphs" target="_blank" rel="noopener" class="share-btn-linkedin">
-          <i class="fab fa-linkedin-in"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="whatsapp://send?text=MultiResGNet:%20Approximating%20nonlinear%20deformation%20via%20multi-resolution%20graphs%20https://li-tianxing.github.io/publication/multiresgnet/" target="_blank" rel="noopener" class="share-btn-whatsapp">
-          <i class="fab fa-whatsapp"></i>
-        </a>
-      </li>
-    
-      
-      
-      
-        
-      
-      
-      
-      <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://li-tianxing.github.io/publication/multiresgnet/&amp;title=MultiResGNet:%20Approximating%20nonlinear%20deformation%20via%20multi-resolution%20graphs" target="_blank" rel="noopener" class="share-btn-weibo">
-          <i class="fab fa-weibo"></i>
-        </a>
-      </li>
-    
   </ul>
 </div>
 
@@ -972,13 +942,13 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://li-tianxing.github.io/"><img class="avatar mr-3 avatar-square" src="/authors/admin/avatar_hu50517694c007a5fcec2788626f8537e7_106502_270x270_fill_q75_lanczos_center.jpg" alt="Tianxing LI"></a>
+      <a href="https://li-tianxing.github.io/"><img class="avatar mr-3 avatar-square" src="/authors/admin/avatar_hu50517694c007a5fcec2788626f8537e7_106502_270x270_fill_q75_lanczos_center.jpg" alt="Tianxing Li"></a>
     
 
     <div class="media-body">
-      <h5 class="card-title"><a href="https://li-tianxing.github.io/">Tianxing LI</a></h5>
-      <h6 class="card-subtitle">PhD student</h6>
-      <p class="card-text">My research interests include computer graphics and machine learning.</p>
+      <h5 class="card-title"><a href="https://li-tianxing.github.io/">Tianxing Li</a></h5>
+      <h6 class="card-subtitle">Lecturer</h6>
+      
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -1025,42 +995,6 @@
     
 
 
-
-  
-  
-  
-  
-  
-  <div class="media author-card content-widget-hr">
-    
-
-    <div class="media-body">
-      <h5 class="card-title">Rui Shi</h5>
-      
-      <p class="card-text">My research interests include computer graphics and machine learning.</p>
-      <ul class="network-icon" aria-hidden="true">
-  
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-    
-    <li>
-      <a href="/" >
-        <i class="fas fa-"></i>
-      </a>
-    </li>
-  
-</ul>
-
-    </div>
-  </div>
 
 
   
@@ -1223,7 +1157,7 @@
     
     
     
-    <script src="/en/js/wowchemy.min.163b8d9708d5ac450497c0142c0dad35.js"></script>
+    <script src="/en/js/wowchemy.min.735a6e30f8cd014083f9e1151ce4e415.js"></script>
 
     
 
