@@ -5,12 +5,49 @@
     <link>https://li-tianxing.github.io/post/</link>
       <atom:link href="https://li-tianxing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://li-tianxing.github.io/media/icon_huac3973a2105f5457805689b97883adb2_17546_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://li-tianxing.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Presented at I3D 2024.</title>
+      <link>https://li-tianxing.github.io/post/pre-i3d24/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://li-tianxing.github.io/post/pre-i3d24/</guid>
+      <description>&lt;p&gt;I3D 2024 was taken place on May 8 – 10, 2024, in Philadelphia, PA, USA. We present our research &amp;ldquo;Efficient Deformation Learning of Varied Garments with a Structure-Preserving Multilevel Framework&amp;rdquo;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-i3d_conf&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Prof. Kanai made the presentation for our work.&#34; srcset=&#34;
+               /post/pre-i3d24/pre-i3d24-1_hu9b1a569618ef169c4ab8c551b969d383_382194_5a05d7c1f67d69cc9a1eef50bcb71651.jpg 400w,
+               /post/pre-i3d24/pre-i3d24-1_hu9b1a569618ef169c4ab8c551b969d383_382194_cc38837c19ab93e93e6743887173582c.jpg 760w,
+               /post/pre-i3d24/pre-i3d24-1_hu9b1a569618ef169c4ab8c551b969d383_382194_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;https://li-tianxing.github.io/post/pre-i3d24/pre-i3d24-1_hu9b1a569618ef169c4ab8c551b969d383_382194_5a05d7c1f67d69cc9a1eef50bcb71651.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Prof. Kanai made the presentation for our work.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- ![Q&amp;A screenshot](pre-i3d24-1.jpg) --&gt;</description>
+    </item>
     
     <item>
       <title>Presented at Eurographics 2023.</title>
