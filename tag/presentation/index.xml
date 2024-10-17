@@ -5,12 +5,49 @@
     <link>https://li-tianxing.github.io/tag/presentation/</link>
       <atom:link href="https://li-tianxing.github.io/tag/presentation/index.xml" rel="self" type="application/rss+xml" />
     <description>presentation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://li-tianxing.github.io/media/icon_huac3973a2105f5457805689b97883adb2_17546_512x512_fill_lanczos_center_3.png</url>
       <title>presentation</title>
       <link>https://li-tianxing.github.io/tag/presentation/</link>
     </image>
+    
+    <item>
+      <title>Presented at Pacific Graphics 2024.</title>
+      <link>https://li-tianxing.github.io/post/pre-pg24/</link>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://li-tianxing.github.io/post/pre-pg24/</guid>
+      <description>&lt;p&gt;PG 2024 was taken place on October 13 – 16, 2024, in Huangshan, China. We present our research &amp;ldquo;SwinGar: Spectrum-Inspired Neural Dynamic Deformation for Free-Swinging Garments&amp;rdquo;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-i3d_conf&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;Tianxing Li made the presentation.&#34; srcset=&#34;
+               /post/pre-pg24/pre-pg24-1_hu139ad7386b27e0bce2c20c6feefd1e66_7694252_2949c3b9093294c216b658e30bdb7883.JPG 400w,
+               /post/pre-pg24/pre-pg24-1_hu139ad7386b27e0bce2c20c6feefd1e66_7694252_cfc36b0656df2264204714ff0f88b2b4.JPG 760w,
+               /post/pre-pg24/pre-pg24-1_hu139ad7386b27e0bce2c20c6feefd1e66_7694252_1200x1200_fit_q75_lanczos.JPG 1200w&#34;
+               src=&#34;https://li-tianxing.github.io/post/pre-pg24/pre-pg24-1_hu139ad7386b27e0bce2c20c6feefd1e66_7694252_2949c3b9093294c216b658e30bdb7883.JPG&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Tianxing Li made the presentation.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;!-- ![Q&amp;A screenshot](pre-pg24-1.jpg) --&gt;</description>
+    </item>
     
     <item>
       <title>Presented at I3D 2024.</title>
