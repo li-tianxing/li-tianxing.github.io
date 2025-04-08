@@ -5,12 +5,20 @@
     <link>https://li-tianxing.github.io/publication-type/2/</link>
       <atom:link href="https://li-tianxing.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://li-tianxing.github.io/media/icon_huac3973a2105f5457805689b97883adb2_17546_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://li-tianxing.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Traffic Scene-Informed Attribution of Autonomous Driving Decisions</title>
+      <link>https://li-tianxing.github.io/publication/multitrafficattr/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://li-tianxing.github.io/publication/multitrafficattr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SwinGar: Spectrum-Inspired Neural Dynamic Deformation for Free-Swinging Garments</title>
